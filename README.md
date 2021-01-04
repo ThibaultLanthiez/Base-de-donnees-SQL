@@ -6,7 +6,7 @@ L’objectif du projet est de réaliser une base de données relationnelle pour 
 
 Pour cela, la société m'a fournit un compte rendu sous forme textuel décrivant les différentes relations et leurs entités qu'elle souhaite voir apparaître dans la base de données. 
 
-Je donc commencé par traduire ce compte rendu en diagramme entité-association. Puis j'ai créé les tables SQL correspondantes avec faissant attention de bien représenter les relations entre les tables. 
+Je donc commencé par traduire ce compte rendu en diagramme entité-association. Puis j'ai créé les tables SQL correspondantes avec faisant attention de bien représenter les relations entre les tables. 
 
 Il m'a aussi été demandé de créer un programme Java permettant d'insérer des données dans la base de données.
 
