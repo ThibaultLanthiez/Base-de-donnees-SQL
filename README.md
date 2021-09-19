@@ -12,4 +12,4 @@ Il m'a aussi été demandé de créer un programme Java permettant d'insérer au
 
 # Code
 
-Les programmes ne sont pas disponibles étant donné que ce projet sera surement reproposé l'année prochaine à l'ENSIMAG.
+Les programmes ne sont pas disponibles étant donné que ce projet sera surement à nouveau proposé l'année prochaine à l'ENSIMAG.
